@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on cokolwiek
 - 🌱 I’m currently learning algebra
 - 😄 Pronouns: he/him
-- 🌍 My website: [Github pages](matkliq.github.io)
+- 🌍 My website: [Github pages](https://matkliq.github.io/)
 <!--
 **Matkliq/matkliq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
