@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on cokolwiek
 - 🌱 I’m currently learning algebra
 - 😄 Pronouns: he/him
-- 🖩 My new project [Kalkulator](https://gist.github.com/Matkliq/41673ac1bb2a014d7cefb105331b0d73)
-- Two ways to find how many knight are checking each other [Knights](https://gist.github.com/Matkliq/16ce5663059b0f049bc9fa80021fc922)
+- 🌍 My website: [Github pages](matkliq.github.io)
 <!--
 **Matkliq/matkliq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
