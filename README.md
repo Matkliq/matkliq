@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 - 🌍 My website: [Github pages](https://matkliq.github.io/)
 - 🍴Face regognition: [Fork](https://github.com/Matkliq/Linux-FaceRecognition-FaceLivenessDetection)
-- More about face recogniotion: [Papers with code](https://paperswithcode.com/paper/testing-human-ability-to-detect-deepfake#code)
+- More about face recogniotion: [Papers with code](https://paperswithcode.com/paper/testing-human-ability-to-detect-deepfake)
 <!--
 **Matkliq/matkliq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
