@@ -1,8 +1,9 @@
 ## Hi there 👋
-- 🙂 My name is Matthew
-- 🔭 I’m currently working on cokolwiek
-- 🌱 I’m currently learning algebra
+- 🙂 My name is Mateusz
+- 🔭 I’m currently working on Helpdesk Application
+- 🌱 I’m currently learning cybersecurity
 - 😄 Pronouns: he/him
+- 📫 How to reach me: Matklik on DC
 - 🌍 My website: [Github pages](https://matkliq.github.io/)
 <!--
 **Matkliq/matkliq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
