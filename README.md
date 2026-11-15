@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning cybersecurity
 - 😄 Pronouns: he/him
 - 📫 How to reach me: Matklik on DC
-- 🌍 My website: [Github pages](https://matkliq.github.io/)
 <!--
 **Matkliq/matkliq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
